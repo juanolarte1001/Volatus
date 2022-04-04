@@ -1,2 +1,0 @@
-# Laboratorio-Software
-Volatus interntional
